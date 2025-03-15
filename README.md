@@ -6,7 +6,7 @@ A modern, responsive Kanban board built with **React, Redux, and React DnD**. It
 
 
 
-![Kanban Board Preview](https://images.unsplash.com/photo-1611224923853-80b023f02d71?auto=format&fit=crop&q=80&w=1000)
+![Kanban Board Screenshot](images/Screenshot-2025-03-15-153531.png)
 
 ## Features
 
