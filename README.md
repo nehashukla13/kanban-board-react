@@ -1,6 +1,9 @@
 # Kanban Board React Application
 
-A modern, responsive Kanban board built with React, Redux, and React DnD. Features drag-and-drop task management, real-time search, and local storage persistence.
+A modern, responsive Kanban board built with **React, Redux, and React DnD**. It allows users to **drag and drop tasks**, perform **real-time search**, and **persist tasks locally**.
+
+🔗 **Live Demo:** [Kanban Board (Netlify)](https://67cddf105e0d2d725fc653c9--dapper-lamington-080b26.netlify.app/)  
+
 
 
 ![Kanban Board Preview](https://images.unsplash.com/photo-1611224923853-80b023f02d71?auto=format&fit=crop&q=80&w=1000)
