@@ -5,8 +5,8 @@ A modern, responsive Kanban board built with **React, Redux, and React DnD**. It
 🔗 **Live Demo:** [Kanban Board (Netlify)](https://67cddf105e0d2d725fc653c9--dapper-lamington-080b26.netlify.app/)  
 
 
-![Kanban Board Screenshot](images/P13.png)
-![Kanban Board Screenshot](images/images/P2.png)
+![Kanban Board Screenshot](images/P3.png)
+![Kanban Board Screenshot](images/P2.png)
 ![Kanban Board Screenshot](images/P1.png)
 
 
